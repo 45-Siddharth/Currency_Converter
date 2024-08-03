@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background{
+    background-image: linear-gradient(to right,lightgrey,rgb(128, 128, 128));
+    background-size: cover;
+    height: 150vh;
+}
+.pad{
+    padding-top: 60px;
+}
+.from-input{
+    height: 50px;
+    width: 250px;
+    font-size: 30px;
+}
+.head {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.caption {
+    font-family: "Roboto";
+}
+.web {
+    color: navy;
+    font-family: "Bree Serif";
+    font-weight: bold;
+}
+.box{
+    border-radius: 10px;
+    border: 1.5px solid black;
+}
+.input{
+    border-radius: 5px;
+    border: 1.5px solid black;
+}
+label{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.heading{
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+}
+.error-msg{
+    color:red;
+    font-family: "Roboto";
+}
